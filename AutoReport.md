@@ -3,7 +3,7 @@
 В ходе ручного тестирования было проведено 673 теста, описанных в файле [Тест-кейсы](https://docs.google.com/spreadsheets/d/1r4ZZs8SwhNFJTdhG0v3x4JviyeYnAbFY/edit?gid=1191533890#gid=1191533890)
 Выявлено 67 ошибок
 
-[Диаграмма](https://drive.google.com/file/d/1p1ZIjNQwyu_X54bYUF8kqMVaaZ9xfYke/view?usp=sharing)
+[Диаграмма](отчет ручное тестирование.jpg)
 
 ### Отчет о проведении автоматизированного тестирования
 
