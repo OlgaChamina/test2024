@@ -80,9 +80,9 @@
 
 ### Отчетна документация:
 
-1. <a href="Plan.md">План тестирования</a>
+1. <a href="Plan.md"> План тестирования </a>
 2. [Чек-лист](https://docs.google.com/spreadsheets/d/1d9UrjCjYbvV9-HiARtYBEjRbqkfcdsxH/edit?gid=1925572506#gid=1925572506)
 3. [Тест-кейсы](https://docs.google.com/spreadsheets/d/1r4ZZs8SwhNFJTdhG0v3x4JviyeYnAbFY/edit?gid=1191533890#gid=1191533890)
-4. Отчет о проведении автоматизированного тестирования
+4. <a href="AutoReport.md">Отчет о проведении тестирования</a>
 5. Баг-репорты
-6. Анализ результатов тестирования и рекомендации
+6. <a href="Rezult.md">Анализ результатов тестирования и рекомендации</a>
